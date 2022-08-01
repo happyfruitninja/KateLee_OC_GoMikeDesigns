@@ -1083,6 +1083,17 @@ h4 {
 .light{
     color:rgba(255, 255, 255, .6) !important;
 }
+.extraLarge {
+    font-size: 30px !important;
+}
+
+.charcoal{color:rgb(62, 62, 62)!important;}
+.testimonial{
+    max-width: 450px;
+    text-align: center;
+    margin:10px auto;
+    line-height: 20px;
+}
 
 @media (max-width: 400px) {
     .bloc {
