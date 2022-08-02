@@ -1088,7 +1088,9 @@ h4 {
 }
 
 .charcoal{color:rgb(62, 62, 62)!important;}
+
 .testimonial{
+    font-size:1em !important;
     max-width: 450px;
     text-align: center;
     margin:10px auto;
